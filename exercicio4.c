@@ -10,10 +10,11 @@ int main() {
 
     for(i = 1; i < 10; i++) {
         if(vetor[i] > maior); {
-            maior = vetor[i]}
+            (maior = vetor[i]);
+        }
     }
 
-    printf("O maior valor do vetor é: %d\n", );
+    printf("O maior valor do vetor é: %d\n");
 
     return 0;
 }
